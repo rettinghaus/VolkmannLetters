@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Briefe von Robert Volkmann
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Klaus
+    family-names: Rettinghaus
+    email: klaus.rettinghaus@gmail.com
+    orcid: 'https://orcid.org/0000-0003-1898-2543'
+identifiers:
+  - type: url
+    value: https://raw.githubusercontent.com/rettinghaus/VolkmannLetters/refs/heads/main/VolkmannBriefe.xml
+    description: data as cmif
+url: 'https://github.com/rettinghaus/VolkmannLetters'
+license: CC0-1.0
+references: 
+  - authors:
+    - family-names: Volkmann
+      given-names: Hans
+    title: Briefe von Robert Volkmann
+    type: book
+    place: Leipzig
+    year: 1917
