@@ -22,4 +22,7 @@ references:
     title: Briefe von Robert Volkmann
     type: book
     year: 1917
+    publisher:
+      name: Breitkopf & Härtel
+      city: Leipzig
     url: 'https://archive.org/details/briefemiteinembi00volk'
