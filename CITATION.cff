@@ -15,7 +15,7 @@ identifiers:
     description: data as cmif
 url: 'https://github.com/rettinghaus/VolkmannLetters'
 license: CC0-1.0
-references: 
+references:
   - authors:
     - family-names: Volkmann
       given-names: Hans
